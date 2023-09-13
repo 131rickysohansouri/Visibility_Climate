@@ -13,4 +13,4 @@ The training data is clustered, and then I determined which model works best for
 ![image](https://user-images.githubusercontent.com/68593617/206849629-88be31f0-7309-4c33-8cc1-070bc122c50c.png)
 
 ### Contact 📞
-If you have any doubt feel free to email me or hit me up on <a href="https://www.linkedin.com/in/chebrolu-tejaswi/">LinkedIn</a>
+If you have any doubt feel free to email me or hit me up on <a href="https://www.linkedin.com/in/sohan-souri/">LinkedIn</a>
